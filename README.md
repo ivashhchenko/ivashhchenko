@@ -4,4 +4,4 @@ Hi, I'm Artem. I am a student from Russia! 👋
 - I'm currently improving my Swift skills and actively developing pet-projects
 - To contact me, you can write to my mail ivashchenkodevelopment@gmail.com
 
-Good luck! ✌🏻
+Peace! ✌🏻
