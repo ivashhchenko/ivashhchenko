@@ -29,5 +29,5 @@
 </p>
 
 <p align="center">
-  Peace! ✌🏻 💛💙
+  Peace! ✌🏻 
 </p>
