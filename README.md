@@ -2,14 +2,14 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift,py" />
+    <img src="https://skillicons.dev/icons?i=swift,py,html,css,js" />
   </a>
 </p>
 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=svscode,atom,vscode,firebase,github,figma,a" />
+    <img src="https://skillicons.dev/icons?i=svscode,atom,vscode,firebase,github,gitlab,figma,a" />
   </a>
 </p>
 
