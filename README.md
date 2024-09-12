@@ -2,18 +2,9 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift,py,html,css,js" />
+    <img src="https://skillicons.dev/icons?i=swift,react,flutter,py,html,css,js,vscode,firebase,github,gitlab,figma&perline=6" />
   </a>
 </p>
-
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=svscode,atom,vscode,firebase,github,gitlab,figma,a" />
-  </a>
-</p>
-
-
 
 - I'm 20 years old
 - I have been interested in programming since my school days. For all the time I managed to work with Python, Swift and Solidity!
