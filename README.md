@@ -6,7 +6,7 @@
   </a>
 </p>
 
-- I'm 20 years old
+- I'm 21 years old
 - I have been interested in programming since my school days. For all the time I managed to work with Python, Swift and Solidity!
 - I'm interested in the development of applications for iOS and everything related to cryptocurrency
 - I'm currently improving my Swift skills and actively developing fintech and e-commerce apps
