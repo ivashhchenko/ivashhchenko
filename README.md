@@ -12,8 +12,8 @@
 - To contact me, you can write to my mail: artyomivashchenko.work@gmail.com
 
 <p align="center">
-  <strong><a href="https://t.me/dthaminee">Telegram</a></strong> |
-  <strong><a href="https://www.linkedin.com/in/antiidot">LinkedIn</a></strong> |
+  <strong><a href="https://t.me/ivashenko_dev">Telegram</a></strong> |
+  <strong><a href="https://www.linkedin.com/in/artyom-ivashenko">LinkedIn</a></strong> |
   <strong><a href="https://www.instagram.com/dthaminee/">Instagram</a></strong> |
   <strong><a href="https://discord.com/users/614071800766136348/">Discord</a></strong> 
 </p>
